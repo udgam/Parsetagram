@@ -34,10 +34,10 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
 - [x] Added alert controllers throughout app
 - [x] Additional UI
 - [x] CollectionView used for the profile
+- [x] Keyboard is removed after entering password field and caption label field
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
@@ -48,7 +48,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/dY9tigL.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
